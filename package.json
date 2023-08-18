@@ -1,0 +1,21 @@
+{
+  "name": "simon-practice-cicd",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Simon Liou",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "myproject_3.3"
+  },
+  "description": "",
+  "dependencies": {
+    "serverless": "^3.34.0"
+  },
+  "devDependencies": {
+    "serverless-offline": "^12.0.4"
+  }
+}
